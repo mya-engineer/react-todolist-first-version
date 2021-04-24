@@ -1,3 +1,7 @@
+# React ToDoList App First Version
+
+This repo is dedicated to React ToDolist App which shows using of fetching data, Context Hook, State Hook, Effect Hook, React.Suspense, PropTypes and base components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
